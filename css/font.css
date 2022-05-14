@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css?family=Lato:400,700,900|Noto+Sans+KR:400,700,900|Roboto:400,700,900&display=swap&subset=korean");
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,400italic|Roboto+Mono:400,500");
+@font-face {
+  font-family: MalgunGothic;
+  src: url(/font/MalgunGothic.eot);
+}
+@font-face {
+  font-family: verdana;
+  src: url(/font/verdana.eot);
+}
