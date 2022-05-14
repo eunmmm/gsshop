@@ -267,7 +267,7 @@
         background-position: -120px -100px;
       }
       &::after {
-        background: url(/images/prd_shadow.png) 0 bottom repeat-x;
+        background: url(../images/prd_shadow.png) 0 bottom repeat-x;
       }
     }
     .product_info {
@@ -281,7 +281,7 @@
           height: 22px;
           line-height: 21px;
           color: $bg-white;
-          background: url(/images/spr_common.png) 0 -25px no-repeat;
+          background: url(../images/spr_common.png) 0 -25px no-repeat;
           text-align: center;
           font-size: $font-medium;
 
@@ -619,11 +619,11 @@
 
           &.arr_left_btn {
             left: 0;
-            background-image: url(/images/btn_left.svg);
+            background-image: url(../images/btn_left.svg);
           }
           &.arr_right_btn {
             right: 0;
-            background-image: url(/images/btn_right.svg);
+            background-image: url(../images/btn_right.svg);
           }
         }
       }
@@ -818,77 +818,77 @@
           }
           .cate_icon_1 {
             &::after {
-              background-image: url(/images/cate_tv.svg);
+              background-image: url(../images/cate_tv.svg);
             }
           }
           .cate_icon_2 {
             &::after {
-              background-image: url(/images/cate_inn.svg);
+              background-image: url(../images/cate_inn.svg);
             }
           }
           .cate_icon_3 {
             &::after {
-              background-image: url(/images/cate_fas.svg);
+              background-image: url(../images/cate_fas.svg);
             }
           }
           .cate_icon_4 {
             &::after {
-              background-image: url(/images/cate_beauty.svg);
+              background-image: url(../images/cate_beauty.svg);
             }
           }
           .cate_icon_5 {
             &::after {
-              background-image: url(/images/cate_sports.svg);
+              background-image: url(../images/cate_sports.svg);
             }
           }
           .cate_icon_6 {
             &::after {
-              background-image: url(/images/cate_food.svg);
+              background-image: url(../images/cate_food.svg);
             }
           }
           .cate_icon_7 {
             &::after {
-              background-image: url(/images/cate_baby.svg);
+              background-image: url(../images/cate_baby.svg);
             }
           }
           .cate_icon_8 {
             &::after {
-              background-image: url(/images/cate_deco.svg);
+              background-image: url(../images/cate_deco.svg);
             }
           }
           .cate_icon_9 {
             &::after {
-              background-image: url(/images/cate_kit.svg);
+              background-image: url(../images/cate_kit.svg);
             }
           }
           .cate_icon_10 {
             &::after {
-              background-image: url(/images/cate_digi.svg);
+              background-image: url(../images/cate_digi.svg);
             }
           }
           .cate_icon_11 {
             &::after {
-              background-image: url(/images/cate_book.svg);
+              background-image: url(../images/cate_book.svg);
             }
           }
           .cate_icon_12 {
             &::after {
-              background-image: url(/images/cate_ecoupon.svg);
+              background-image: url(../images/cate_ecoupon.svg);
             }
           }
           .cate_icon_13 {
             &::after {
-              background-image: url(/images/cate_shop2.svg);
+              background-image: url(../images/cate_shop2.svg);
             }
           }
           .cate_icon_14 {
             &::after {
-              background-image: url(/images/cate_shop.svg);
+              background-image: url(../images/cate_shop.svg);
             }
           }
           .cate_icon_15 {
             &::after {
-              background-image: url(/images/cate_theme.svg);
+              background-image: url(../images/cate_theme.svg);
             }
           }
         }
@@ -942,7 +942,7 @@
                 strong {
                   display: block;
                   height: 19px;
-                  background: url(/images/spr_common.png) no-repeat -150px -102px;
+                  background: url(../images/spr_common.png) no-repeat -150px -102px;
                   color: transparent;
                 }
 

@@ -2,9 +2,9 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,400italic|Roboto+Mono:400,500");
 @font-face {
   font-family: MalgunGothic;
-  src: url(/font/MalgunGothic.eot);
+  src: url(../font/MalgunGothic.eot);
 }
 @font-face {
   font-family: verdana;
-  src: url(/font/verdana.eot);
+  src: url(../font/verdana.eot);
 }

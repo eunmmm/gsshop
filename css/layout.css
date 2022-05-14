@@ -52,7 +52,7 @@ body {
 }
 
 #header h1 a {
-  background: url(/images/logo.png) no-repeat center;
+  background: url(../images/logo.png) no-repeat center;
   display: block;
   width: 100%;
   height: 100%;
@@ -294,67 +294,67 @@ body {
 }
 
 .category_wrap .catecory_item > a .cate_icon_1::after {
-  background-image: url(/images/cate_tv.svg);
+  background-image: url(../images/cate_tv.svg);
 }
 
 .category_wrap .catecory_item > a .cate_icon_2::after {
-  background-image: url(/images/cate_inn.svg);
+  background-image: url(../images/cate_inn.svg);
 }
 
 .category_wrap .catecory_item > a .cate_icon_3::after {
-  background-image: url(/images/cate_fas.svg);
+  background-image: url(../images/cate_fas.svg);
 }
 
 .category_wrap .catecory_item > a .cate_icon_4::after {
-  background-image: url(/images/cate_beauty.svg);
+  background-image: url(../images/cate_beauty.svg);
 }
 
 .category_wrap .catecory_item > a .cate_icon_5::after {
-  background-image: url(/images/cate_sports.svg);
+  background-image: url(../images/cate_sports.svg);
 }
 
 .category_wrap .catecory_item > a .cate_icon_6::after {
-  background-image: url(/images/cate_food.svg);
+  background-image: url(../images/cate_food.svg);
 }
 
 .category_wrap .catecory_item > a .cate_icon_7::after {
-  background-image: url(/images/cate_baby.svg);
+  background-image: url(../images/cate_baby.svg);
 }
 
 .category_wrap .catecory_item > a .cate_icon_8::after {
-  background-image: url(/images/cate_deco.svg);
+  background-image: url(../images/cate_deco.svg);
 }
 
 .category_wrap .catecory_item > a .cate_icon_9::after {
-  background-image: url(/images/cate_kit.svg);
+  background-image: url(../images/cate_kit.svg);
 }
 
 .category_wrap .catecory_item > a .cate_icon_10::after {
-  background-image: url(/images/cate_digi.svg);
+  background-image: url(../images/cate_digi.svg);
 }
 
 .category_wrap .catecory_item > a .cate_icon_11::after {
-  background-image: url(/images/cate_book.svg);
+  background-image: url(../images/cate_book.svg);
 }
 
 .category_wrap .catecory_item > a .cate_icon_12::after {
-  background-image: url(/images/cate_ecoupon.svg);
+  background-image: url(../images/cate_ecoupon.svg);
 }
 
 .category_wrap .catecory_item > a .cate_icon_13::after {
-  background-image: url(/images/cate_shop2.svg);
+  background-image: url(../images/cate_shop2.svg);
 }
 
 .category_wrap .catecory_item > a .cate_icon_14::after {
-  background-image: url(/images/cate_shop.svg);
+  background-image: url(../images/cate_shop.svg);
 }
 
 .category_wrap .catecory_item > a .cate_icon_15::after {
-  background-image: url(/images/cate_theme.svg);
+  background-image: url(../images/cate_theme.svg);
 }
 
 .category_wrap .catecory_item > a .cate_icon_16::after {
-  background-image: url(/images/cate_partners.svg);
+  background-image: url(../images/cate_partners.svg);
 }
 
 .category_wrap .catecory_item .sub_layer {
@@ -844,7 +844,7 @@ footer .wrap {
   position: absolute;
   top: 3px;
   left: 10px;
-  background: url(/images/spr_common.png) no-repeat;
+  background: url(../images/spr_common.png) no-repeat;
 }
 
 .ft_bottom .corp_wrap {

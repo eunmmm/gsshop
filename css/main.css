@@ -149,7 +149,7 @@
 .visual_swiper .vs_text_wrap .vs_advantage div span:not(:first-child)::before {
   content: "";
   padding: 6px;
-  background: url(/images/dot.png) no-repeat 3px center;
+  background: url(../images/dot.png) no-repeat 3px center;
 }
 
 .visual_swiper .swiper_nav {
@@ -282,7 +282,7 @@
 }
 
 .sc_onair .product_item .product_img::after {
-  background: url(/images/prd_shadow.png) 0 bottom repeat-x;
+  background: url(../images/prd_shadow.png) 0 bottom repeat-x;
 }
 
 .sc_onair .product_item .product_info .product_name {
@@ -297,7 +297,7 @@
   height: 22px;
   line-height: 21px;
   color: #fff;
-  background: url(/images/spr_common.png) 0 -25px no-repeat;
+  background: url(../images/spr_common.png) 0 -25px no-repeat;
   text-align: center;
   font-size: 14px;
 }
@@ -673,12 +673,12 @@
 
 .store_brand_wrap > section .cnt_wrap .main_btn i.arr_left_btn {
   left: 0;
-  background-image: url(/images/btn_left.svg);
+  background-image: url(../images/btn_left.svg);
 }
 
 .store_brand_wrap > section .cnt_wrap .main_btn i.arr_right_btn {
   right: 0;
-  background-image: url(/images/btn_right.svg);
+  background-image: url(../images/btn_right.svg);
 }
 
 .store_brand_wrap .sc_store .cnt_wrap {
@@ -885,63 +885,63 @@
 }
 
 .sc_best .category_tab ul li a .cate_icon_1::after {
-  background-image: url(/images/cate_tv.svg);
+  background-image: url(../images/cate_tv.svg);
 }
 
 .sc_best .category_tab ul li a .cate_icon_2::after {
-  background-image: url(/images/cate_inn.svg);
+  background-image: url(../images/cate_inn.svg);
 }
 
 .sc_best .category_tab ul li a .cate_icon_3::after {
-  background-image: url(/images/cate_fas.svg);
+  background-image: url(../images/cate_fas.svg);
 }
 
 .sc_best .category_tab ul li a .cate_icon_4::after {
-  background-image: url(/images/cate_beauty.svg);
+  background-image: url(../images/cate_beauty.svg);
 }
 
 .sc_best .category_tab ul li a .cate_icon_5::after {
-  background-image: url(/images/cate_sports.svg);
+  background-image: url(../images/cate_sports.svg);
 }
 
 .sc_best .category_tab ul li a .cate_icon_6::after {
-  background-image: url(/images/cate_food.svg);
+  background-image: url(../images/cate_food.svg);
 }
 
 .sc_best .category_tab ul li a .cate_icon_7::after {
-  background-image: url(/images/cate_baby.svg);
+  background-image: url(../images/cate_baby.svg);
 }
 
 .sc_best .category_tab ul li a .cate_icon_8::after {
-  background-image: url(/images/cate_deco.svg);
+  background-image: url(../images/cate_deco.svg);
 }
 
 .sc_best .category_tab ul li a .cate_icon_9::after {
-  background-image: url(/images/cate_kit.svg);
+  background-image: url(../images/cate_kit.svg);
 }
 
 .sc_best .category_tab ul li a .cate_icon_10::after {
-  background-image: url(/images/cate_digi.svg);
+  background-image: url(../images/cate_digi.svg);
 }
 
 .sc_best .category_tab ul li a .cate_icon_11::after {
-  background-image: url(/images/cate_book.svg);
+  background-image: url(../images/cate_book.svg);
 }
 
 .sc_best .category_tab ul li a .cate_icon_12::after {
-  background-image: url(/images/cate_ecoupon.svg);
+  background-image: url(../images/cate_ecoupon.svg);
 }
 
 .sc_best .category_tab ul li a .cate_icon_13::after {
-  background-image: url(/images/cate_shop2.svg);
+  background-image: url(../images/cate_shop2.svg);
 }
 
 .sc_best .category_tab ul li a .cate_icon_14::after {
-  background-image: url(/images/cate_shop.svg);
+  background-image: url(../images/cate_shop.svg);
 }
 
 .sc_best .category_tab ul li a .cate_icon_15::after {
-  background-image: url(/images/cate_theme.svg);
+  background-image: url(../images/cate_theme.svg);
 }
 
 .sc_best .cnt_wrap {
@@ -1007,7 +1007,7 @@
 .sc_best .cnt_wrap .cnt_swiper ul li .product_item .product_img .badge_best strong {
   display: block;
   height: 19px;
-  background: url(/images/spr_common.png) no-repeat -150px -102px;
+  background: url(../images/spr_common.png) no-repeat -150px -102px;
   color: transparent;
 }
 

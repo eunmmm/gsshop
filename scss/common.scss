@@ -17,7 +17,7 @@
 }
 
 *[class^="sprite_"] {
-  background: url(/images/spr_common.png) no-repeat;
+  background: url(../images/spr_common.png) no-repeat;
   display: inline-block;
   width: 24px;
   height: 24px;
@@ -312,7 +312,7 @@ strong {
         right: 0;
         background-position: -50px -275px;
         position: absolute;
-        background-image: url(/images/spr_common.png);
+        background-image: url(../images/spr_common.png);
         background-repeat: no-repeat;
         z-index: 2;
       }
